@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "assets": {
+    "generic": {
+      "mime": "image/webp",
+      "path": "assets/prose-generic-73b1576d0a89.webp",
+      "bytes": 88700,
+      "sha256": "73b1576d0a89a4be42af0bb725ab277cd08c250dda648b99892131ddf692dee2"
+    },
+    "hero": {
+      "mime": "image/webp",
+      "path": "assets/prose-hero-41f08eee7621.webp",
+      "bytes": 86104,
+      "sha256": "41f08eee762177d1705b2d807ad0ac23d3f9b9f6fdda20148a9d3beb10868a7d"
+    }
+  }
+}
