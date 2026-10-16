@@ -12,6 +12,12 @@
       "path": "assets/prose-hero-41f08eee7621.webp",
       "bytes": 86104,
       "sha256": "41f08eee762177d1705b2d807ad0ac23d3f9b9f6fdda20148a9d3beb10868a7d"
+    },
+    "stairs": {
+      "mime": "image/webp",
+      "path": "assets/prose-stairs-645c96ee1e26.webp",
+      "bytes": 94784,
+      "sha256": "645c96ee1e26857997bd495a88b25d121b4c5a78a9715a9cfdada67f4bf21093"
     }
   }
 }
