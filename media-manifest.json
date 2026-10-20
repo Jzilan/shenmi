@@ -534,6 +534,13 @@
       "path": "assets/d3d19f3055fd9bfb04eaa5dc.webp",
       "bytes": 206114,
       "sha256": "ae2983debed8b1ecd7cbece15d514630e210eb01b33dc5e7374dcd2977ba2e66"
+    },
+    "647721b3a19f1797d59f5a13": {
+      "mime": "audio/mp4",
+      "path": "assets/647721b3a19f1797d59f5a13.m4a",
+      "bytes": 4136483,
+      "sha256": "647721b3a19f1797d59f5a136a932ffad06368c7b60fc69086bcf38f94b72053",
+      "role": "chapter-music"
     }
   }
 }
